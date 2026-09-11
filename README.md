@@ -6,6 +6,7 @@ An end-to-end Power BI dashboard analyzing 197,000+ food delivery order records 
 
 📋 Overview
 This project transforms raw transactional order data into a fully interactive, decision-ready dashboard covering:
+
 📈 Revenue performance across time (monthly, daily, weekly)
 ⭐ Customer satisfaction metrics (ratings, rating volume)
 🍽️ Category-level breakdown (Veg vs Non-Veg)
@@ -25,6 +26,7 @@ High-level snapshot of business performance — KPI cards, monthly sales trend, 
 A dedicated analytical view for drilling into quarterly performance, city-level comparisons, and weekly seasonality — powered by the same filters as the main dashboard for consistent, cross-page exploration.
 
 🛠️ Built With
+
 🔷 Power BI Desktop — data modeling, DAX measures, report design
 🔶 Power Query — data cleaning, transformation, and column engineering (Month, Day, Week, Quarter extraction and custom sorting)
 🔷 DAX — custom measures for Total Sales, Average Rating, AOV, Rating Count, and Total Orders
@@ -50,5 +52,6 @@ This is a personal portfolio project built to demonstrate end-to-end Power BI sk
 👉 ![Dashboard Preview](Pan-India%20Food%20Delivery%20Sales%20Intelligence%20Dashboard%20Analysis.png)
 
 🔗 Connect
+
 💼 LinkedIn: linkedin.com/in/kunalgurav45
 📧 Email: kunalgurav111@gmail.com
